@@ -597,8 +597,7 @@ html[data-theme="dark"] .social-toast {
   html[data-theme="dark"] body::before {
     background:
       linear-gradient(rgba(0, 0, 0, .62), rgba(0, 0, 0, .8)),
-      radial-gradient(ellipse at 50% 17%, rgba(80, 110, 150, .16), transparent 55%);
-    background-color: #000;
+      url("WhatsApp Image 2026-10-27 at 7.23.52 PM.jpeg") center 35% / cover fixed;
   }
 }
 
